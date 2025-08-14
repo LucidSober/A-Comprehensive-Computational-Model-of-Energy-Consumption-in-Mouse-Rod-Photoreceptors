@@ -118,7 +118,11 @@ You can easily modify key parameters to suit your research needs. All recommende
   plot_final_results_figure2.m`: **Plotting Function**. Visualizes the simulation results.
   calculate_ATP_consumption_accurate.m`: **ATP Consumption Function**. Used for post-processing analysis of energy consumption.
 
+<img width="865" height="584" alt="图片" src="https://github.com/user-attachments/assets/755f3dab-92f9-4696-b697-5cb15f99cb45" />
+Fig.1 The network structure of the present model of phototransduction in a red cell, each abbreviation is explained and the kinetics of each reaction are elucidated). Irreversible reactions are marked with an arrow indicating the direction of each reaction, Colours are used to distinguish between active molecules (ie. in different yellow tones: molecules that carry on the amplification cascade in the following reaction), and those are necessary for signaling, but are cither inactive intermediats or specis devoted to shut-off regulatory mechanisms. A bold bonder marks the activated species involved in the amplification.
+
 <img width="865" height="596" alt="图片" src="https://github.com/user-attachments/assets/fc185da3-40f3-4384-9a44-e6163a08b83f" />
+
 Variable	English Name	Unit	Significance & Interpretation
 Core Electrophysiology & Chemical Signals			
 Vm	Membrane Potential	mV	The overall voltage state of the cell, representing the final output of all integrated ionic currents. It hyperpolarizes (becomes more negative) in response to light, which is how the cell signals to the brain.
